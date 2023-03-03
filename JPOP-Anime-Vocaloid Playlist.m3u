@@ -1,0 +1,112 @@
+#EXTM3U
+#EXTINF:0,Asia DREAM Radio
+#EXTVLCOPT:network-caching=1000
+http://184.75.212.82:1025
+#EXTINF:0,Tsubaki Web Radio
+#EXTVLCOPT:network-caching=1000
+http://stream.tsubakianimeradio.com:9000/stream/1/
+#EXTINF:0,JPHiP Radio
+#EXTVLCOPT:network-caching=1000
+http://radio.jphip.com:8800/
+#EXTINF:0,Otaku Music Radio
+#EXTVLCOPT:network-caching=1000
+https://kathy.torontocast.com:2880
+#EXTINF:0,JPop Christmas Radio
+#EXTVLCOPT:network-caching=1000
+http://quincy.torontocast.com:1290
+#EXTINF:0,Stereo Anime
+#EXTVLCOPT:network-caching=1000
+https://radio.stereoanime.net/listen/stereoanime/128
+#EXTINF:0,AutoBakaRadio-Net
+#EXTVLCOPT:network-caching=1000
+http://144.217.203.184:8398/stream/1/
+#EXTINF:0,Japannext
+#EXTVLCOPT:network-caching=1000
+http://198.50.158.92:8803/stream/1/
+#EXTINF:0,WWW.AKIBA-COM-BR
+#EXTVLCOPT:network-caching=1000
+https://stm24.srvstm.com:9526
+#EXTINF:0,RadioDoki
+#EXTVLCOPT:network-caching=1000
+http://144.217.203.184:8972
+#EXTINF:0,Naihatsu Radio
+#EXTVLCOPT:network-caching=1000
+http://108.163.223.242:8305
+#EXTINF:0,J-Pop Powerplay Kawaii
+#EXTVLCOPT:network-caching=1000
+http://kathy.torontocast.com:3060
+#EXTINF:0,J-Pop Powerplay 
+#EXTVLCOPT:network-caching=1000
+http://kathy.torontocast.com:3560
+#EXTINF:0,J-Rock Powerplay 
+#EXTVLCOPT:network-caching=1000
+http://kathy.torontocast.com:3340
+#EXTINF:0,J-Pop Sakura
+#EXTVLCOPT:network-caching=1000
+http://igor.torontocast.com:1710
+#EXTINF:0,J-Club Powerplay Hip-Hop
+#EXTVLCOPT:network-caching=1000
+http://kathy.torontocast.com:3350
+#EXTINF:0,Big B Radio #Jpop Station
+#EXTVLCOPT:network-caching=1000
+https://antares.dribbcast.com/proxy/jpop?mp=/s
+#EXTINF:0,AnimeRadio
+#EXTVLCOPT:network-caching=1000
+https://stream.animeradio.de/animeradio.mp3
+#EXTINF:0,Gensokyo Radio
+#EXTVLCOPT:network-caching=1000
+https://as1.stream.gensokyoradio.net/1/
+#EXTINF:0,JPop Project Radio
+#EXTVLCOPT:network-caching=1000
+https://26383.live.streamtheworld.com/SAM10AAC139.mp3
+#EXTINF:0,AnimeFM
+#EXTVLCOPT:network-caching=1000
+https://animefm.stream.laut.fm/animefm?ref=radiode&t302=2022-12-08_11-04-19&uuid=6e6bff7d-9b24-4261-b62e-c39d8e4d93b6
+#EXTINF:0,Isekai Anime Radio 
+#EXTVLCOPT:network-caching=1000
+https://cast.isekaianimeradio.net/radio/8000/radio.mp3
+#EXTINF:0,Radio Anime
+#EXTVLCOPT:network-caching=1000
+https://radioanime.radioca.st/stream/1/
+#EXTINF:0,Vocaloid Radio
+#EXTVLCOPT:network-caching=1000
+https://vocaloid.radioca.st/stream
+#EXTINF:0,Opening Radio
+#EXTVLCOPT:network-caching=1000
+https://stream-57.zeno.fm/tza2ayy47qruv?zs=rEXVIh0ARey_6-UVW87PsQ
+#EXTINF:0,Anime Radio Night
+#EXTVLCOPT:network-caching=1000
+http://stm11.srvstm.com:8356
+#EXTINF:0,J-Idols Project Radio - All Japanese Idols
+#EXTVLCOPT:network-caching=1000
+https://26383.live.streamtheworld.com/SAM05AAC121.mp3
+#EXTINF:0,Animu FM
+#EXTVLCOPT:network-caching=1000
+https://cast.animu.com.br/stream
+#EXTINF:0,BOX-Weeb Radio Network
+#EXTVLCOPT:network-caching=1000
+https://boxradio-edge-15.streamafrica.net/anime
+#EXTINF:0,JPopsuki Radio 2.0
+#EXTVLCOPT:network-caching=1000
+http://jpopsuki.fm:8000/stream
+#EXTINF:0,Japan-a-Radio 日本流行音樂與動畫卡通歌曲 配信中
+#EXTVLCOPT:network-caching=1000
+http://audio.misproductions.com/japan48kaacp
+#EXTINF:0,BOX-Japan City Pop
+#EXTVLCOPT:network-caching=1000
+https://boxradio-edge-03.streamafrica.net/jpopchill
+#EXTINF:0,BOX-Jpop Radio
+#EXTVLCOPT:network-caching=1000
+https://boxradio-edge-04.streamafrica.net/jpop
+#EXTINF:0,HitsRadio-JP
+#EXTVLCOPT:network-caching=1000
+https://18103.live.streamtheworld.com/977_HITS_SC
+#EXTINF:0,Listen-moe
+#EXTVLCOPT:network-caching=1000
+https://listen.moe/opus
+#EXTINF:0,TACTAC
+#EXTVLCOPT:network-caching=1000
+https://stream-50.zeno.fm/692dbdr067zuv?zs=2iJG7eyURs-KRUW2DZyGsA
+#EXTINF:0,Japanese Music ID
+#EXTVLCOPT:network-caching=1000
+https://stream.japanesemusicid.com/live/1/
